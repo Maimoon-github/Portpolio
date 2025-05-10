@@ -2,7 +2,6 @@ site_name: Portfolio
 
 theme:
   name: material
-  logo: img\Logo.png  # updated to your custom logo file
   language: en
   # logo: images\Logo.png
   # favicon: assets/favicon.ico
