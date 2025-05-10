@@ -3,8 +3,8 @@ site_name: Portfolio
 theme:
   name: material
   language: en
-  # logo: images\Logo.png
-  # favicon: assets/favicon.ico
+  logo: img\Maimoon_ Engineer of the Future.png
+  favicon: img\Maimoon_ Engineer of the Future.png
   features:
     - navigation.instant
     - navigation.sections
@@ -16,6 +16,9 @@ theme:
     - content.tabs.link
     - header.autohide
     - navigation.top
+    - navigation.footer
+    - search.suggest
+    - content.tooltips
   palette:
     - scheme: default
       primary: custom
@@ -55,9 +58,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.highlight
   - pymdownx.inlinehilite
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.emoji
   - footnotes
   - meta
   - toc:
