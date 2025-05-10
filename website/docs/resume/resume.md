@@ -1,7 +1,3 @@
-# Resume
-
-[Download My Resume (PDF)](Maimoon_Profile.pdf)
-
 Welcome to my comprehensive overview of my professional journey. This section presents my academic background, work experience, key skills, and notable achievements in a clear and structured format.
 
 ---
@@ -79,7 +75,7 @@ Welcome to my comprehensive overview of my professional journey. This section pr
 
 ## **Downloads & Contact**
 
-- **Downloadable Resume:**  [Download Resume PDF](Maimoon_Profile.pdf)
+- **Downloadable Resume:**  [Download Resume PDF](Profile.pdf)
   <!-- *(Link placeholder – e.g., “Download PDF”)* -->
   
 - **Professional Network:**  
