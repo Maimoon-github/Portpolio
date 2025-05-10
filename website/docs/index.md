@@ -1,7 +1,12 @@
-
 # **Welcome to My Site**
 
+![0](./img/banner.jpeg)
+
 Hello, I'm **Muhammad Maimoon**, a passionate **`AI Enthusiast | Data Scientist | Pythonista | AI Agent | RAG Systems`** dedicated to creating innovative and beautiful solutions in the world of **`Artificial Intelligence, Data Science, Agentic ChatBots`**. 🤖📊
+
+## Quick Resume Access
+
+[Download My Resume (PDF)](./resume/Maimoon_Profile.pdf)
 
 ## **What I Do!!** 🚀
 

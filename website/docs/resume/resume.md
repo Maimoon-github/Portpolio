@@ -1,20 +1,18 @@
-
-
 Welcome to my comprehensive overview of my professional journey. This section presents my academic background, work experience, key skills, and notable achievements in a clear and structured format.
 
 ---
 
 ## **Education**
 
-- **Institutions & Certifications:**  
-  - **Matriculation:** Completed from a local school.  
-  - **DevOps & Cloud Advancement Diploma:** Currently pursuing (January 2025 – March 2025).  
-  - **Data Science Studies:** Actively studying through self-paced and structured online programs.  
-  - **Certifications:**  
-    - Docker, Kubernetes, Jenkins  
-    - Terraform, Ansible  
-    - Git, Linux, Shell Scripting  
-    - Spoken English, 12-Factor App  
+- **Institutions & Certifications:**
+  - **Matriculation:** Completed at a local school.
+  - **DevOps & Cloud Advancement:** Completed at **KodeKloud**. Gained in-depth knowledge of cloud services and automation practices.
+  - **Data Science Studies:** Actively studying through self-paced and structured online programs. Currently pursuing studies (January 2025 – March 2025).
+  - **Certifications:**
+    - Docker, Kubernetes, Jenkins
+    - Terraform, Ansible
+    - Git, Linux, Shell Scripting
+    - Spoken English, 12-Factor App
     - Python, AI, ML, DL Basics
 
 - **Academic Highlights:**  
@@ -81,5 +79,6 @@ Welcome to my comprehensive overview of my professional journey. This section pr
   <!-- *(Link placeholder – e.g., “Download PDF”)* -->
   
 - **Professional Network:**  
-      - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/maimoon-moon-amin/) 
-      - **Email:** [ideal.rhel@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)   
+      - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/maimoon-moon-amin/)
+      - **Email:** [ideal.rhel@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
+      - **GitHub:** [Repos/Profile](https://github.com/Maimoon-github)
