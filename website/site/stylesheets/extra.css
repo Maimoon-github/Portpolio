@@ -61,7 +61,7 @@
 
   /* Base background & text */
   --md-default-bg-color:        #121212; /* Dark mode surface, per Material Design :contentReference[oaicite:6]{index=6} */
-  --md-default-fg-color:        #FFFFFF; /* White text for best contrast :contentReference[oaicite:7]{index=7} */
+  --md-default-fg-color:        #b6c3fd; /* White text for best contrast :contentReference[oaicite:7]{index=7} */
 
   /* Link color */
   --md-typeset-a-color:         #5C6BC0; /* Indigo 400 for links :contentReference[oaicite:8]{index=8} */
