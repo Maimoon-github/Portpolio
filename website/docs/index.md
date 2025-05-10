@@ -1,6 +1,6 @@
 # **Welcome to My Site**
 
-![0](./img/banner.jpeg)
+![0](./img/banner.jpg)
 
 Hello, I'm **Muhammad Maimoon**, a passionate **`AI Enthusiast | Data Scientist | Pythonista | AI Agent | RAG Systems`** dedicated to creating innovative and beautiful solutions in the world of **`Artificial Intelligence, Data Science, Agentic ChatBots`**. 🤖📊
 
