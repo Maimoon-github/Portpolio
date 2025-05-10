@@ -11,7 +11,9 @@ Hello, I'm **Muhammad Maimoon**, a passionate **`AI Enthusiast | Data Scientist 
 ## **What I Do!!** 🚀
 
 - **Data Science:** Building data-driven solutions that uncover insights and foster smarter decisions. 📈
+
 - **AI Agent Development:** Crafting intelligent agents that help automate and enhance various tasks. 🤖
+
 - **RAG Systems:** Developing RAG (Retrieval-Augmented Generation) systems that combine robust data retrieval with generative AI technologies. 🔍💡
 
 ## **Explore My Work** 🌟
@@ -23,5 +25,7 @@ Feel free to navigate through my portfolio to see detailed case studies, project
 I’m always open to new opportunities and conversations.  
 
 - Check out my [**Projects**](./portfolio/projects.md) for detailed insights into my work. 📂
+
 - Visit the [**About**](./about.md) page to learn more about my background and mission. 🧑‍💻
+
 - Head over to the [**Contact**](./contact.md) page if you’d like to connect or collaborate. 📬
