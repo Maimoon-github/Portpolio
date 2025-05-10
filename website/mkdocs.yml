@@ -3,8 +3,8 @@ site_name: Portfolio
 theme:
   name: material
   language: en
-  logo: img\Maimoon_ Engineer of the Future.png
-  favicon: img\Maimoon_ Engineer of the Future.png
+  logo: img/Maimoon_ Engineer of the Future.png
+  favicon: img/Maimoon_ Engineer of the Future.png
   features:
     - navigation.instant
     - navigation.sections
@@ -44,6 +44,7 @@ nav:
   - Portfolio:
       - Overview: portfolio/portfolio.md
       - Projects: portfolio/projects.md
+      - Personality: portfolio/personality.md
   - Blog:
       - Blogs: blog/blogs.md
   - Contact: contact.md
