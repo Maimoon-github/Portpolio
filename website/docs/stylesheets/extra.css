@@ -1,0 +1,76 @@
+/* ...existing code... */
+
+/* 2) Paint in your Logo.png */
+.md-header-nav__button--site {
+  /* size to match your logo’s natural ratio */
+  width: 48px;
+  height: 48px;
+  padding: 0;          /* remove default padding */
+  margin-right: 1rem;  /* space before the nav links */
+  
+  /* changed to your custom logo location */
+  background: url('/images/my_logo.png') no-repeat center center !important;
+  background-size: contain !important;
+  
+  /* keep the link text for screen readers */
+  text-indent: -9999px;
+}
+
+/* ...existing code... */
+
+/* docs/stylesheets/extra.css */
+[data-md-color-scheme="default"] {
+  /* Primary Indigo shades */
+  --md-primary-fg-color:        #3F51B5; /* Indigo 500 :contentReference[oaicite:0]{index=0} */
+  --md-primary-fg-color--light: #7986CB; /* Indigo 300 :contentReference[oaicite:1]{index=1} */
+  --md-primary-fg-color--dark:  #303F9F; /* Indigo 700 :contentReference[oaicite:2]{index=2} */
+
+  /* Accent Amber shades for highlights */
+  --md-accent-fg-color:         #FFC107; /* Amber 500 :contentReference[oaicite:3]{index=3} */
+  --md-accent-fg-color--light:  #FFD54F; /* Amber 300 :contentReference[oaicite:4]{index=4} */
+  --md-accent-fg-color--dark:   #FFA000; /* Amber 700 :contentReference[oaicite:5]{index=5} */
+
+  /* Background and text */
+  --md-default-bg-color:        #FFFFFF; /* White :contentReference[oaicite:6]{index=6} */
+  --md-default-fg-color:        #000000; /* Black for maximum contrast :contentReference[oaicite:7]{index=7} */
+
+  /* Link styling */
+  --md-typeset-a-color:         #303F9F; /* Indigo 700 for links :contentReference[oaicite:8]{index=8} */
+
+  /* Code block styling */
+  --md-code-bg-color:           #F5F5F5; /* Light gray background :contentReference[oaicite:9]{index=9} */
+  --md-code-fg-color:           #000000; /* Black text for readability :contentReference[oaicite:10]{index=10} */
+
+  /* Footer customization */
+  --md-footer-bg-color:         #3F51B5; /* Indigo 500 :contentReference[oaicite:11]{index=11} */
+  --md-footer-fg-color:         #FFFFFF; /* White :contentReference[oaicite:12]{index=12} */
+}
+
+
+/* docs/stylesheets/extra.css */
+[data-md-color-scheme="slate"] {
+  /* Primary Indigo shades */
+  --md-primary-fg-color:        #3F51B5; /* Indigo 500 :contentReference[oaicite:0]{index=0} */
+  --md-primary-fg-color--light: #5C6BC0; /* Indigo 400 :contentReference[oaicite:1]{index=1} */
+  --md-primary-fg-color--dark:  #303F9F; /* Indigo 700 :contentReference[oaicite:2]{index=2} */
+
+  /* Accent Amber shades */
+  --md-accent-fg-color:         #FFC107; /* Amber 500 :contentReference[oaicite:3]{index=3} */
+  --md-accent-fg-color--light:  #FFD54F; /* Amber 300 :contentReference[oaicite:4]{index=4} */
+  --md-accent-fg-color--dark:   #FBC02D; /* Amber 700 :contentReference[oaicite:5]{index=5} */
+
+  /* Base background & text */
+  --md-default-bg-color:        #121212; /* Dark mode surface, per Material Design :contentReference[oaicite:6]{index=6} */
+  --md-default-fg-color:        #FFFFFF; /* White text for best contrast :contentReference[oaicite:7]{index=7} */
+
+  /* Link color */
+  --md-typeset-a-color:         #5C6BC0; /* Indigo 400 for links :contentReference[oaicite:8]{index=8} */
+
+  /* Code block styling */
+  --md-code-bg-color:           #292929; /* Light tint on dark surfaces :contentReference[oaicite:9]{index=9} */
+  --md-code-fg-color:           #FFFFFF; /* White code text :contentReference[oaicite:10]{index=10} */
+
+  /* Footer styling */
+  --md-footer-bg-color:         #1A237E; /* Indigo 900 for a strong anchor :contentReference[oaicite:11]{index=11} */
+  --md-footer-fg-color:         #FFFFFF; /* White footer text :contentReference[oaicite:12]{index=12} */
+}
