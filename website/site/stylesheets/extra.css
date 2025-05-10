@@ -1,106 +1,22 @@
-/* :root { */
-/*       /\* --md-primary-fg-color:        #123456; *\/ */
-/*       /\* --md-primary-fg-color--light: #56789A; *\/ */
-/*       /\* --md-primary-fg-color--dark:  #0F1E2D; *\/ */
-/*       /\* --md-accent-fg-color:         #ABCDEF; *\/ */
-/*       */
-/*       */
-/*       /\* --md-primary-fg-color:   #1ABC9C; /\* Turquoise (primary) *\/ *\/ */
-/*       /\* --md-primary-fg-color--light:   #E8F8F5; /\* Turquoise tint (light) *\/ *\/ */
-/*       /\* --md-primary-fg-color--dark:    #10715E; /\* Turquoise shade (dark) *\/ *\/ */
-/*       /\* --md-accent-fg-color:           #F1C40F; /\* Sun Flower (bright yellow) *\/ *\/ */
-/*       */
-/*       */
-/*       /\*--md-primary-fg-color:   #607D8B; /\* Blue Grey 500 (primary) *\/ *\/ */
-/*       /\*--md-primary-fg-color--light:   #CFD8DC; /\* Blue Grey 100 (light) *\/ *\/ */
-/*       /\*--md-primary-fg-color--dark:    #455A64; /\* Blue Grey 700 (dark) *\/ *\/ */
-/*       /\*--md-accent-fg-color:           #F39C12; /\* Carrot (warm orange) *\/ *\/ */
-/*       */
-/*       */
-/*       /\*--md-primary-fg-color:   #2196F3; /\* Blue 500 (primary) *\/ *\/ */
-/*       /\*--md-primary-fg-color--light:   #BBDEFB; /\* Blue 100 (light) *\/ *\/ */
-/*       /\*--md-primary-fg-color--dark:    #1565C0; /\* Blue 800 (dark) *\/ *\/ */
-/*       /\*--md-accent-fg-color:           #F50057; /\* Pink A400 (accent) *\/ *\/ */
-/*       */
-/*       */
-/*       /\* --md-primary-fg-color:   #2C3E50; Midnight Blue (primary) *\/ */
-/*       /\* --md-primary-fg-color--light:   #ECF0F1; Clouds (light) *\/ */
-/*       /\* --md-primary-fg-color--dark:    #34495E; Wet Asphalt (dark) *\/ */
-/*       /\* --md-accent-fg-color:           #27AE60; Nephritis (emerald green) *\/ */
-/*       */
-/*       */
-/*         /\*--md-primary-fg-color:   #8E44AD; /\* Wisteria (primary) *\/ *\/ */
-/*         /\*--md-primary-fg-color--light:   #D7BDE2; /\* Wisteria tint (light) *\/ *\/ */
-/*         /\*--md-primary-fg-color--dark:    #5B2C6F; /\* Wisteria shade (dark) *\/ *\/ */
-/*         /\*--md-accent-fg-color:           #E67E22; /\* Carrot (warm orange) *\/ *\/ */
-/*         */
-/*         */
-/*         /\*--md-primary-fg-color:   #2980B9; /\* Peter River (primary) *\/ *\/ */
-/*         /\*--md-primary-fg-color--light:   #D4E6F1; /\* Peter River tint (light) *\/ *\/ */
-/*         /\*--md-primary-fg-color--dark:    #1A5276; /\* Peter River shade (dark) *\/ *\/ */
-/*         /\*--md-accent-fg-color:           #C0392B; /\* Alizarin (red) *\/ *\/ */
-/*         */
-/*         */
-/*         /\* --md-primary-bg-color:   #ECF0F1; /\* Clouds (background) *\/ */
-/*         /\* --md-primary-bg-color--light:   #FFFFFF; White (background light) *\/ */
-/*         /\* --md-primary-bg-color--dark:    #BDC3C7; Silver (background dark) *\/ */
-/*         /\* --md-accent-bg-color:           #34495E; Wet Asphalt (background accent) *\/ */
-/* } */
-/* */
-/* /\* */
-/* :root > * { */
-/*   /\* Primary color shades *\/ */
-/*   --md-primary-fg-color:        #1E3A8A; /\* Indigo-900 *\/ */
-/*   --md-primary-fg-color--light: #3B82F6; /\* Blue-500 *\/ */
-/*   --md-primary-fg-color--dark:  #1E40AF; /\* Indigo-800 *\/ */
-/* */
-/*   /\* Accent color shades *\/ */
-/*   --md-accent-fg-color:         #10B981; /\* Emerald-500 *\/ */
-/*   --md-accent-fg-color--light:  #6EE7B7; /\* Emerald-300 *\/ */
-/*   --md-accent-fg-color--dark:   #047857; /\* Emerald-700 *\/ */
-/* */
-/*   /\* Background and text colors *\/ */
-/*   --md-default-bg-color:        #F9FAFB; /\* Gray-50 *\/ */
-/*   --md-default-fg-color:        #111827; /\* Gray-900 *\/ */
-/* */
-/*   /\* Link colors *\/ */
-/*   --md-typeset-a-color:         #2563EB; /\* Blue-600 *\/ */
-/* */
-/*   /\* Code block colors *\/ */
-/*   --md-code-bg-color:           #F3F4F6; /\* Gray-100 *\/ */
-/*   --md-code-fg-color:           #1F2937; /\* Gray-800 *\/ */
-/* */
-/*   /\* Footer colors *\/ */
-/*   /\* --md-footer-bg-color:         #1E3A8A; Indigo-900 *\/ */
-/*   /\* --md-footer-fg-color:         #F9FAFB; Gray-50 *\/ */
-/* } */
-/* \*/ 
+/* ...existing code... */
 
+/* 2) Paint in your Logo.png */
+.md-header-nav__button--site {
+  /* size to match your logo’s natural ratio */
+  width: 48px;
+  height: 48px;
+  padding: 0;          /* remove default padding */
+  margin-right: 1rem;  /* space before the nav links */
+  
+  /* changed to your custom logo location */
+  background: url('/images/my_logo.png') no-repeat center center !important;
+  background-size: contain !important;
+  
+  /* keep the link text for screen readers */
+  text-indent: -9999px;
+}
 
-
-/* Light mode customizations */
-/* [data-md-color-scheme="default"] { */
-  /* --md-primary-fg-color:        #6D5ACF; Indigo-900 */
-  /* --md-primary-fg-color--light: #a395e7; Blue-500 */
-  /* --md-primary-fg-color--dark:  #1E40AF; Indigo-800 */
-
-  /* --md-accent-fg-color:         #10B981; Emerald-500 */
-  /* --md-accent-fg-color--light:  #6EE7B7; Emerald-300 */
-  /* --md-accent-fg-color--dark:   #047857; Emerald-700 */
-
-  /* --md-default-bg-color:        #a1a1a158; Gray-50 */
-  /* --md-default-fg-color:        #111827f0; Gray-900 */
-
-  /* --md-typeset-a-color:         #2563EB; Blue-600 */
-
-  /* --md-code-bg-color:           #F3F4F6; Gray-100 */
-  /* --md-code-fg-color:           #1F2937; Gray-800 */
-
-  /* --md-footer-bg-color:         #1E3A8A; Indigo-900 */
-  /* --md-footer-fg-color:         #F9FAFB; Gray-50 */
-/* } */
-
-
+/* ...existing code... */
 
 /* docs/stylesheets/extra.css */
 [data-md-color-scheme="default"] {
@@ -129,33 +45,6 @@
   --md-footer-bg-color:         #3F51B5; /* Indigo 500 :contentReference[oaicite:11]{index=11} */
   --md-footer-fg-color:         #FFFFFF; /* White :contentReference[oaicite:12]{index=12} */
 }
-
-
-
-
-/* Dark mode customizations */
-/* [data-md-color-scheme="slate"] { */
-  /* --md-primary-fg-color:        #4B0082; Light Blue-300 */
-  /* --md-primary-fg-color--light: #0077ff; Light Blue-200 */
-  /* --md-primary-fg-color--dark:  #063063; Light Blue-400 */
-
-  /* --md-accent-fg-color:         #6EE7B7; Emerald-300 */
-  /* --md-accent-fg-color--light:  #A7F3D0; Emerald-200 */
-  /* --md-accent-fg-color--dark:   #34D399; Emerald-400 */
-
-  /* --md-default-bg-color:        #1e34535a; Gray-800 */
-  /* --md-default-fg-color:        #f9fafbd7; Gray-50 */
-
-  /* --md-typeset-a-color:         #93C5FD; Light Blue-300 */
-
-  /* --md-code-bg-color:           #374151; Gray-700 */
-  /* --md-code-fg-color:           #D1D5DB; Gray-300 */
-
-  /* --md-footer-bg-color:         #1E3A8A; Indigo-900 */
-  /* --md-footer-fg-color:         #F9FAFB; Gray-50 */
-/* } */
-
-
 
 
 /* docs/stylesheets/extra.css */
