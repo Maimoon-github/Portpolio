@@ -3,8 +3,8 @@ site_name: Maimoon | Agentic AI & Data Science Portfolio
 theme:
   name: material
   language: en
-  logo: img\Maimoon_ Engineer of the Future.png
-  favicon: img\Maimoon_ Engineer of the Future.png
+  logo: img/Maimoon_ Engineer of the Future.png
+  favicon: img/Maimoon_ Engineer of the Future.png
   features:
     - navigation.instant
     - navigation.sections
