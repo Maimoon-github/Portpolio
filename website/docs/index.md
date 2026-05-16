@@ -1,31 +1,42 @@
-# **Welcome to My Site**
+# Engineering the Agentic Future 🚀
 
-![0](./img/banner.jpg)
+Welcome. I am **Maimoon**, a Data Science and Agentic AI Engineer dedicated to bridging the gap between cutting-edge AI research and production-grade business solutions.
 
-Hello, I'm **Muhammad Maimoon**, a passionate **`AI Enthusiast | Data Scientist | Pythonista | AI Agent | RAG Systems`** dedicated to creating innovative and beautiful solutions in the world of **`Artificial Intelligence, Data Science, Agentic ChatBots`**. 🤖📊
+I specialize in building **autonomous multi-agent systems**, **RAG (Retrieval-Augmented Generation) pipelines**, and **scalable MLOps infrastructure**. My work is driven by a "system-aware" mindset—combining the rigor of DevOps with the intelligence of modern LLMs.
 
-## Quick Resume Access
+---
 
-[Download My Resume (PDF)](./resume/Maimoon_Profile.pdf)
+### **Core Focus Areas**
 
-## **What I Do!!** 🚀
+::: { .grid .cards }
 
-- **Data Science:** Building data-driven solutions that uncover insights and foster smarter decisions. 📈
+-   :material-robot-auto: **Agentic AI**
+    
+    Designing autonomous workflows using CrewAI, LangGraph, and multi-agent orchestration to solve complex, multi-step tasks.
 
-- **AI Agent Development:** Crafting intelligent agents that help automate and enhance various tasks. 🤖
+-   :material-database-search: **Advanced RAG**
+    
+    Building high-precision retrieval systems with semantic chunking, vector databases, and intelligent query expansion.
 
-- **RAG Systems:** Developing RAG (Retrieval-Augmented Generation) systems that combine robust data retrieval with generative AI technologies. 🔍💡
+-   :material-chart-line: **Data Science**
+    
+    Transforming raw data into actionable insights through predictive modeling, churn analysis, and exploratory data science.
 
-## **Explore My Work** 🌟
+-   :material-infinity: **MLOps & DevOps**
+    
+    Ensuring reliability and scalability through Docker, CI/CD, and robust infrastructure-as-code practices.
 
-Feel free to navigate through my portfolio to see detailed case studies, project highlights, and blog posts that showcase my journey and innovations in AI. Whether you are interested in learning more about my projects or collaborating on new ideas, there’s something here for everyone. 💼✨
+:::
 
-## **Let’s Connect** 🤝
+---
 
-I’m always open to new opportunities and conversations.  
+### **Recent Highlights**
+- 🛠️ Developed **Agent-Researcher**, a 15-node autonomous system for deep data synthesis.
+- ✍️ Built **Blog-Writing-Agent**, automating content lifecycles from research to image generation.
+- 📱 Created **Social-Media-AI-Agent** for platform-optimized technical content distribution.
 
-- Check out my [**Projects**](./portfolio/projects.md) for detailed insights into my work. 📂
+---
 
-- Visit the [**About**](./about.md) page to learn more about my background and mission. 🧑‍💻
-
-- Head over to the [**Contact**](./contact.md) page if you’d like to connect or collaborate. 📬
+[View All Projects](portfolio/projects.md){ .md-button .md-button--primary }
+[About Me](about.md){ .md-button }
+[Connect on LinkedIn](https://www.linkedin.com/in/maimoon-moon-amin/){ .md-button }

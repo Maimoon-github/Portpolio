@@ -1,28 +1,65 @@
+# Skills & Expertise 🧠
 
-### **Industry-Specific Proficiencies**  
-- **Machine Learning & Deep Learning:** 🤖 Specialized in designing, developing, and deploying models that learn from data, ensuring improved decision-making processes.  
-- **Natural Language Processing (NLP) & RAG Systems:** 🗣️ Focused on innovating in areas like conversational AI and retrieval-augmented generation, which add value by creating interactive and efficient communication systems.
+A comprehensive overview of my technical proficiencies, spanning Agentic AI, Data Science, and DevOps.
 
-### **Technical Skills**  
-- **Programming & Development:** 💻 Adequate in Python, along with experience in using essential libraries and frameworks such as TensorFlow, PyTorch, and scikit-learn for machine learning and deep learning projects.  
-- **DevOps Tools:** 🛠️ Skilled with Docker, Kubernetes, Jenkins, Terraform, Ansible, and Git, which enable me to build scalable, automated environments and streamline CI/CD processes.  
-- **Problem Solving:** 🧩 These technical skills have allowed me to create solutions that reduce manual tasks and enhance system reliability, directly addressing real-world challenges in various domains.
+---
 
-### **Soft Skills & Professional Competencies**  
-- **Communication & Collaboration:** 🤝 Collaborative attitude in team and communication skills enhance my ability to work effectively in team settings and articulate complex technical concepts clearly.  
-- **Problem-Solving & Critical Thinking:** 🧠 These skills complement my technical knowledge, allowing me to troubleshoot issues and iteratively improve systems.  
-- **Leadership & Adaptability:** 🌟 Demonstrated through successfully leading projects and adapting to rapidly evolving technology trends.
+## **Core Technical Skills**
 
-### **Certifications & Continuous Learning**  
-- **Certifications:** 📜 Completed a comprehensive DevOps track from KodeKloud, among other specialized training programs, which have validated and expanded my technical expertise.  
-- **Ongoing Education:** 📚 Regularly participate in online courses and workshops, currently focused on Data Science, Agentic AI, Artificial Intelligence, and emerging technologies, to stay ahead of industry trends.
+::: { .grid .cards }
 
-### **Tools & Methodologies**  
-- **Essential Tools:** 🛠️ Regularly utilize Python for programming, Git for version control, and Docker/Kubernetes for containerization and orchestration.  
-- **Methodologies:** 🚀 Follow Agile practices and CI/CD pipelines, as well as design thinking principles to ensure that my projects are both efficient and user-focused.
+-   **Agentic AI & LLMs**
+    -   Autonomous Multi-Agent Systems
+    -   CrewAI & LangGraph Orchestration
+    -   RAG (Retrieval-Augmented Generation)
+    -   Prompt Engineering & LLM Fine-tuning
+    -   Model Evaluation & Optimization
 
-- [ ] ### **Future Learning Goals**  
-- **Expanding Expertise:** 🌐 Actively developing skills in advanced agentic AI techniques and exploring new machine learning algorithms and frameworks.  
-- **Continuous Improvement:** 🔄 Committed to lifelong learning to keep pace with technological advancements, ensuring that my work remains innovative and impactful.
+-   **Data Science & ML**
+    -   Python (NumPy, Pandas, Scikit-learn)
+    -   Deep Learning (PyTorch, TensorFlow)
+    -   Predictive Modeling & Churn Analysis
+    -   NLP & Semantic Search
+    -   Statistical Analysis & Visualization
 
-> *This comprehensive skill set forms the cornerstone of my work, driving efficient solutions and fostering continuous growth in my career.*  
+-   **DevOps & Infrastructure**
+    -   Containerization (Docker)
+    -   Orchestration (Kubernetes)
+    -   Infrastructure as Code (Terraform)
+    -   CI/CD Pipelines (GitHub Actions)
+    -   Cloud Infrastructure (AWS/Azure)
+
+-   **Automation & Scrapers**
+    -   Web Scraping (Scrapy, BeautifulSoup)
+    -   Browser Automation (Selenium, Playwright)
+    -   API Integration & Development
+    -   Social Media Automation
+    -   Workflow Automation
+
+:::
+
+---
+
+## **Tools & Technologies**
+
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | Python, TypeScript, SQL, Bash |
+| **AI Frameworks** | LangChain, CrewAI, LangGraph, Ollama, OpenAI API |
+| **Data/ML** | Pandas, Scikit-learn, Pinecone, ChromaDB, Matplotlib |
+| **DevOps** | Docker, Kubernetes, Terraform, Git, GitHub Actions |
+| **Web/Apps** | Next.js, Streamlit, FastAPI, Flask |
+
+---
+
+## **Soft Skills**
+
+*   **Strategic Problem Solving:** Bridging complex technical requirements with business impact.
+*   **Narrative Communication:** Articulating technical concepts through professional blogging and documentation.
+*   **Continuous Learning:** Dedicated to staying at the forefront of the "Agentic" era of AI.
+*   **Cross-Disciplinary Mindset:** Merging the rigor of engineering with the creativity of AI research.
+
+---
+
+[View Project Portfolio](../portfolio/projects.md){ .md-button }
+[Contact for Collaboration](../contact.md){ .md-button }
